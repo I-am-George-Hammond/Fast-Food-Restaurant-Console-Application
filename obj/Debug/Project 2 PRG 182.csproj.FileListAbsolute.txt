@@ -1,0 +1,7 @@
+C:\Users\georg\Dropbox\My PC (LAPTOP-HCES2NO9)\Documents\Project 2 PRG 182\bin\Debug\Project 2 PRG 182.exe.config
+C:\Users\georg\Dropbox\My PC (LAPTOP-HCES2NO9)\Documents\Project 2 PRG 182\bin\Debug\Project 2 PRG 182.exe
+C:\Users\georg\Dropbox\My PC (LAPTOP-HCES2NO9)\Documents\Project 2 PRG 182\bin\Debug\Project 2 PRG 182.pdb
+C:\Users\georg\Dropbox\My PC (LAPTOP-HCES2NO9)\Documents\Project 2 PRG 182\obj\Debug\Project 2 PRG 182.csprojAssemblyReference.cache
+C:\Users\georg\Dropbox\My PC (LAPTOP-HCES2NO9)\Documents\Project 2 PRG 182\obj\Debug\Project 2 PRG 182.csproj.CoreCompileInputs.cache
+C:\Users\georg\Dropbox\My PC (LAPTOP-HCES2NO9)\Documents\Project 2 PRG 182\obj\Debug\Project 2 PRG 182.exe
+C:\Users\georg\Dropbox\My PC (LAPTOP-HCES2NO9)\Documents\Project 2 PRG 182\obj\Debug\Project 2 PRG 182.pdb
